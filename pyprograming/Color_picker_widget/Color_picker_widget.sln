@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2008
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Color_picker_widget", "Color_picker_widget\Color_picker_widget.pyproj", "{02C10715-9BF3-460B-9879-311D8DF7459D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{02C10715-9BF3-460B-9879-311D8DF7459D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{02C10715-9BF3-460B-9879-311D8DF7459D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {064CE468-6FEE-4CB5-AA27-8EDBFA493E77}
+	EndGlobalSection
+EndGlobal
